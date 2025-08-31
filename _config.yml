@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "DreamTale"
-description              : "Researcher at International Digital Economy Academy (IDEA), Vistring Lab. Focusing on human-centric computer vision and video content generation."
-repository               : "Yunfei-Liu/yunfei-liu.github.io"
-google_scholar_stats_use_cdn : true
+title                    : "Bhipee"
+description              : "Research Assistant at PolyU/InfiX.ai. Focusing on MLLM and Gaze Estimation."
+repository               : "bhipee/bhipee.github.io"
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yunfei Liu (刘云飞)"
+  name             : "Zheng Liu (刘铮)"
   avatar           : "images/avatar-2.png"
-  bio              : "IDEA, Vistring Lab"
-  location         : "Shenzhen, China"
+  bio              : "PolyU"
+  location         : "Hong Kong, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=B1Z1vTMAAAAJ"
-  email            : "liuyunfei@idea.edu.cn"
-  researchgate     :  https://www.researchgate.net/profile/Yunfei-Liu-17
+  googlescholar    : 
+  email            : "liu_zheng [at] buaa [dot] edu [dot] cn"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "DreamTaleCore"
+  github           : "Bhipee"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : https://dblp.org/pid/136/3330.html
-  orcid            : https://orcid.org/0000-0001-6898-0058
+  dblp             : 
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

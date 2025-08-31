@@ -19,7 +19,7 @@ redirect_from:
 
 {% include_relative includes/intro.md %}
 
-{% include_relative includes/news.md %}
+<!-- {% include_relative includes/news.md %} -->
 
 {% include_relative includes/pub.md %}
 
@@ -28,13 +28,14 @@ redirect_from:
 {% include_relative includes/edu.md %}
 
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Visual intelligence for enhanced perception, Huawei internal talk
 - *2021.06*, Digital Image Processing, Beihang international class
-- *2020.06*, Deep learning interpretability, Meituan internal talk
+- *2020.06*, Deep learning interpretability, Meituan internal talk -->
 
-# 💻 Internships
-- *2022.03 - 2022.10*, [IDEA](https://www.idea.edu.cn), Vistring Lab, Shenzhen, China.
-- *2016.07 - 2017.05*, [DJI](https://www.dji.com/cn), Visual Perception Group, Shenzhen, China.
+# 💻 Work Experience \& Internship
+- *2025.07 - present* RA@[PolyU/InfiX.ai](https://huggingface.co/InfiX-ai), Hong Kong, China.
+- *2025.01 - 2025.06*, Intern@[ByteDance](https://www.bytedance.com/cn), Pico, Beijing, China.
+- *2023.07 - 2023.09*, Intern@[Tsinghua University](https://www.idea.edu.cn), School of Vehicle and Mobility, Beijing, China.
 
-<center> <i><font color=Gray>Last updated on June. 2025</font></i> </center>
+<center> <i><font color=Gray>Last updated on Aug. 2025</font></i> </center>

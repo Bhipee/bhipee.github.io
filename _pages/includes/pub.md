@@ -3,7 +3,7 @@
 
 > 📩 denotes corresponding author, 📌 denotes co-first author.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/papers/guava.gif' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/papers/guava.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GUAVA: Generalizable Upper Body 3D Gaussian Avatar](https://arxiv.org/abs/2505.03351v1)
@@ -169,4 +169,8 @@ Mingfang Zhang, **Yunfei Liu**, Feng Lu
 - `arXiv 2021` [Vulnerability of Appearance-based Gaze Estimation](https://arxiv.org/abs/2103.13134), Mingjie Xu, Haofei Wang, **Yunfei Liu**, Feng Lu.
 - `AAAI 2020` [Separate In Latent Space: Unsupervised Single Image Layer Separation](https://arxiv.org/abs/1906.00734), **Yunfei Liu**, Feng Lu. [GitHub](https://github.com/DreamtaleCore/SILS) [<font color=Red>Oral</font>]
 - `ICPR 2020` [Adaptive Feature Fusion Network for Gaze Tracking in Mobile Tablets](https://arxiv.org/abs/2103.11119), Yiwei Bao, Yihua Cheng, **Yunfei Liu**, Feng Lu. [GitHub](https://github.com/kirito12138/AFF-Net).
-- `ACM-MM 2019` [What I See Is What You See: Joint Attention Learning for First and Third Person Video Co-analysis](https://arxiv.org/abs/1904.07424), Huangyue Yu, Minjie Cai, **Yunfei Liu**, Feng Lu.
+- `ACM-MM 2019` [What I See Is What You See: Joint Attention Learning for First and Third Person Video Co-analysis](https://arxiv.org/abs/1904.07424), Huangyue Yu, Minjie Cai, **Yunfei Liu**, Feng Lu. -->
+
+- `TPAMI, under review` UVAGaze+: Unsupervised Single-to-Multi Views Adaptation for Gaze Estimation, **Zheng Liu📌**, Ruicong Liu📌, Feng Lu📩.
+- `Chinese Patent, under review` Method, Device, Terminal Equipment, and Storage Medium for Multi-Light Source Light Spot Correspondence, Bingqiang Li, Feng Lu, **Zheng Liu**, Di Zhu, Rui Li.
+- `ECCV 2024` Benchmarks and Challenges in Pose Estimation for Egocentric Hand Interactions with Objects, Zicong Fan, Takehiko Ohkawa, Linlin Yang, Nie Lin, Zhishan Zhou, Shihao Zhou, Jiajun Liang, Zhong Gao, Xuanyang Zhang, Xue Zhang, Fei Li, **Zheng Liu**, Feng Lu, etc.
