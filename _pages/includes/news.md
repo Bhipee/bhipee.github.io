@@ -11,7 +11,7 @@
 - *[2024]*: 5 papers have been accepted by ICLR, CVPR, AAAI, ECCV.
 
 <!-- fold below   -->
-<details>
+<!-- <details>
 <summary>Click for More</summary>
 
 <ul>
@@ -37,4 +37,4 @@
 <li><em>[Mar, 2022]</em>: &nbsp;🎉 Two <a href="https://cvpr2022.thecvf.com/">CVPR</a> papers have been accepted.</li>
 </ul>
 
-</details> 
+</details>  -->
