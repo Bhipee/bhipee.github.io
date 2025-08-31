@@ -33,8 +33,8 @@ redirect_from:
 - *2021.06*, Digital Image Processing, Beihang international class
 - *2020.06*, Deep learning interpretability, Meituan internal talk -->
 
-# 💻 Work Experience \& Internship
-- *2025.07 - present* RA@[PolyU/InfiX.ai](https://huggingface.co/InfiX-ai), Hong Kong, China.
+# 💻 Work Experience & Internship
+- *2025.07 - present*, RA@[PolyU/InfiX.ai](https://huggingface.co/InfiX-ai), Hong Kong, China.
 - *2025.01 - 2025.06*, Intern@[ByteDance](https://www.bytedance.com/cn), Pico, Beijing, China.
 - *2023.07 - 2023.09*, Intern@[Tsinghua University](https://www.idea.edu.cn), School of Vehicle and Mobility, Beijing, China.
 

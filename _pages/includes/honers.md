@@ -2,12 +2,12 @@
 - *Outstanding Graduate of Beijing Municipality (3%)*, Beijing Municipal Education Commission, 2025
 - *Excellent Graduate Student*, Beihang University, 2024
 - *4th in [Hands@ICCV2023](https://sites.google.com/view/hands2023/challenges/assemblyhands) Competition*, 2023
-- *Excellent Student*, Beihang University, 2023\&2024
+- *Excellent Student*, Beihang University, 2023&2024
 - *First-Class Academic Scholarshi*p, Beihang University, 2023
 - *Nomination for “Star Graduate Award”* (only 20 students were nominated), Xidian University, 2023
 - *Outstanding Graduate of Shaanxi Province (1%)*, Shaanxi Provincial Education Department, 2022
-- *Excellent Student*, Xidian University, 2019\&2021
-- *National Scholarship (less than 1%)*, Ministry of Education of the People's Republic of China, 2019\&2021
+- *Excellent Student*, Xidian University, 2019&2021
+- *National Scholarship (less than 1%)*, Ministry of Education of the People's Republic of China, 2019&2021
 - *First-Class Scholarship*, Xidian University, 2021
 - *PalmFun Scholarship (1%)*, Xidian University, 2021
 
